@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a56db,100:0d1117&height=200&section=header&text=Runyenyesa%20Lincon&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Cloud%20%7C%20AI%20Builder&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a56db,100:0d1117&height=200&section=header&text=Runyenyesa%20Lincon&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Quantitative%20Analyst%20%7C%20Cloud%20%7C%20AI%20Builder&descAlignY=55&descSize=18)
 
 </div>
 
@@ -8,15 +8,15 @@
 
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-### Hi there, I'm Lincon 👋
+### Hi there, I'm Lincoln 👋
 
-I'm a **Computer Science student** at Mbarara University of Science and Technology (MUST), currently on industrial training at **Tubayo** — an AI-powered African travel and marketplace platform based at the National Innovation Hub, Kampala.
+I'm a **Computer Science student** at Mbarara University of Science and Technology (MUST), currently on industrial training at **Tubayo** - an AI-powered African travel and marketplace platform based at the National Innovation Hub, Kampala.
 
-I build things that solve real problems — from AI chatbots to cloud-deployed web systems, livestock tracking platforms, and fullstack web apps. Long-term goal: **generational wealth through software**.
+I build things that solve real problems from AI chatbots to cloud-deployed web systems, livestock tracking platforms, and fullstack web apps. Long-term goal: **generational wealth through software**.
 
 - 🔭 Currently working on: **AI Article Speed Reader** + **Tubayo hotel onboarding system**
-- 🌱 Studying: **AWS Solutions Architect (SAA-C03)** — targeting certification by Sept 2025
-- 🐄 Building: **Animal Tracking & Livestock Management System** (startup + final year project)
+- 🌱 Studying: **AWS Solutions Architect (SAA-C03)** targeting certification by Sept 2025
+- 🐄 Building: **Animal Tracking & Livestock Management System** (startup)
 - 💬 Ask me about: FastAPI, Flask, PHP, cloud deployments, WhatsApp bots
 - 📍 Based in: **Kampala, Uganda**
 - ⚡ Fun fact: I automate things so I can think about bigger problems
