@@ -8,7 +8,7 @@
 
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-### Hi there, I'm Lincoln 👋
+### Hi there, I'm RUNYENYESA 👋
 
 I'm a **Computer Science student** at Mbarara University of Science and Technology (MUST), currently on industrial training at **Tubayo** - an AI-powered African travel and marketplace platform based at the National Innovation Hub, Kampala.
 
